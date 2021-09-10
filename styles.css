@@ -128,7 +128,7 @@ model-viewer {
   background: linear-gradient(to top right, rgb(218, 221, 227), rgb(119, 124, 133));
 }
 
- model-viewer:not(.show-hotspotspersonaggio) .Hotspotpersonaggio {
+ model-viewer:not(.show-hotspots) .Hotspot {
       opacity: 0;
       pointer-events: none;
     }
